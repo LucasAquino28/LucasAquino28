@@ -67,12 +67,18 @@ Busco transformar conhecimentos acadêmicos em soluções práticas, desenvolven
 ## GitHub Status
 
 <p align="center">
-  <img width="100%" src="./github-metrics.svg" alt="GitHub Status and Statistics"/>
+  <img
+    src="./github-metrics.svg"
+    width="100%"
+    alt="GitHub Metrics - Lucas Aquino"
+  />
 </p>
 
 <p align="center">
-  <sub>Automatically generated from GitHub activity and repository data.</sub>
+  <sub>Automatically updated GitHub statistics.</sub>
 </p>
+
+---
 
 ---
 
